@@ -1,5 +1,4 @@
 ﻿using Microsoft.AspNetCore.SignalR;
-using System.Numerics;
 
 public class MessageHub : Hub
 {
